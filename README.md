@@ -12,7 +12,11 @@ Existing research has established that land cover and land use patterns influenc
 
 Shanghai is one of the largest and most rapidly urbanizing cities in China  ([China Statistics Press, 2020](https://www.sciencedirect.com/science/article/pii/S0048969722013560#bb0020)). Its expansion is not just horizontally, but also vertical. Due to this constant change and complex development pattern, Shanghai is a classic example that can help illustrate the relationship between impervious surfaces and elevated temperatures. Even though the link between land cover and heat island effect is established and well documented (Wang et al., 2017; Yang et al., 2022), very few studies are conducted that focuses on how impervious surfaces, land use and land cover are correlated with heat wave intensity (Shi et al., 2023). This can be critical to urban climate resilience planning. Few studies have integrated land use data with heatwave metrics to identify this relationship, especially in rapidly urbanizing megacities like Shanghai. 
 
-This study addresses this gap by analyzing the correlation between impervious surface coverage and heatwave intensity in Shanghai by linking land use characteristics with spatial and temporal variation with the heatwave severity. 
+This study addresses this gap by analyzing the correlation between impervious surface coverage and heatwave intensity in Shanghai by linking land use characteristics with spatial and temporal variation with the heatwave severity.
+
+The study is modeled after and builds upon the work by Wang et al. (2017).
+
+Wang, H., Zhang, Y., Tsou, J. Y., & Li, Y. (2017). Surface Urban Heat Island Analysis of Shanghai (China) Based on the Change of Land Use and Land Cover. Sustainability, 9(9), 1538. [https://doi.org/10.3390/su9091538](https://doi.org/10.3390/su9091538)
 
 # Hypothesis
 
