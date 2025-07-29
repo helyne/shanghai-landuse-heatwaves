@@ -3,6 +3,9 @@
 ## Contributors
 **Ajadi Sodiq Abayomi**, **Helyne Adamson**, **Thomas Rakiswende Bere**, **Sharon Christa**, **Elisabeth Lindner**, **Xiaoxiao Zhao**
 
+## Presentations
+- [Project Presentation (PDF)](presentations/eight-minute-presentation.pdf)
+
 # Research question/objective
 
 In this research study, we investigate the relationship between land use and land cover and heatwave intensity in Shanghai, China. Specifically, we will investigate the link between impervious surface and heatwave intensity for the years 1991-2024.
